@@ -1,0 +1,2 @@
+daftar_buah = [jeruk, mangga, apel, duriann]
+print daftar_buah ()
